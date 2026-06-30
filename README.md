@@ -4,6 +4,10 @@ A regularly updated list of 2026 software engineering internships and new grad r
 
 This repo focuses on real job-search help, not mass applying. Use it to find roles, check fit, improve your resume, and apply with more intent.
 
+## Latest jobs
+
+- [**All Latest Jobs (Master List)**](data/all-jobs.md) — every role, newest first
+
 ## Quick links
 
 - [Software Engineering Internships](data/internships.md)
